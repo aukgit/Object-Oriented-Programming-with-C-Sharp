@@ -8,6 +8,21 @@ namespace JumpStartOOP.ClassConcept
 {
     class Person {
 
+        
+
+        #region Constructors
+
+        //public Person() {
+        //    Console.WriteLine("Person is created.");
+        //}
+
+        public Person(string FirstName) {
+            this.FirstName = FirstName;
+            Console.WriteLine(this.FirstName + " is created.");
+        }
+
+        #endregion
+
         #region data  or attributes
 
         public string FirstName;
@@ -32,6 +47,15 @@ namespace JumpStartOOP.ClassConcept
         }
 
         #endregion
+
+        #region Destructor
+
+        ~Person() {
+            Console.WriteLine("Destructor is called.");
+        }
+
+        #endregion
+
 
     }
 }

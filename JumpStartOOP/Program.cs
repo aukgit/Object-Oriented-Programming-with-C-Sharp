@@ -11,12 +11,15 @@ namespace JumpStartOOP
     {
         static void Main(string[] args) {
 
-            Person person = new Person();
+            Person person = new Person("Alice");
 
-            person.FirstName = "Alice";
+
             person.Walk();
             person.Talk();
             person.Eat();
+
+            person = null;
+            GC.Collect();
 
             Console.ReadLine();
         }
