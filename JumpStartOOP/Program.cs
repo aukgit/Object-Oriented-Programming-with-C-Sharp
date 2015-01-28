@@ -1,4 +1,5 @@
-﻿using System;
+﻿using JumpStartOOP.ClassConcept;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,8 +9,16 @@ namespace JumpStartOOP
 {
     class Program
     {
-        static void Main(string[] args)
-        {
+        static void Main(string[] args) {
+
+            Person person = new Person();
+
+            person.FirstName = "Alice";
+            person.Walk();
+            person.Talk();
+            person.Eat();
+
+            Console.ReadLine();
         }
     }
 }

@@ -1,1 +1,6 @@
 E:\Working\GitHub\Object-Oriented-Programming-with-C-Sharp\JumpStartOOP\bin\Debug\JumpStartOOP.exe.config
+E:\Working\GitHub\Object-Oriented-Programming-with-C-Sharp\JumpStartOOP\bin\Debug\JumpStartOOP.exe
+E:\Working\GitHub\Object-Oriented-Programming-with-C-Sharp\JumpStartOOP\bin\Debug\JumpStartOOP.pdb
+E:\Working\GitHub\Object-Oriented-Programming-with-C-Sharp\JumpStartOOP\obj\Debug\JumpStartOOP.csprojResolveAssemblyReference.cache
+E:\Working\GitHub\Object-Oriented-Programming-with-C-Sharp\JumpStartOOP\obj\Debug\JumpStartOOP.exe
+E:\Working\GitHub\Object-Oriented-Programming-with-C-Sharp\JumpStartOOP\obj\Debug\JumpStartOOP.pdb
