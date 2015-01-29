@@ -72,7 +72,7 @@ namespace JumpStartOOP
             //var vector = new Vector();
             //vector.Add("Hello");
 
-            Teacher alice = (Teacher)new Student();
+            //Teacher alice = (Teacher)new Student();
 
             
 

@@ -1,0 +1,12 @@
+c:\users\faisal hossain\documents\visual studio 2013\Projects\Day6\Day6\bin\Debug\Day6.exe.config
+c:\users\faisal hossain\documents\visual studio 2013\Projects\Day6\Day6\obj\Debug\Day6.csprojResolveAssemblyReference.cache
+c:\users\faisal hossain\documents\visual studio 2013\Projects\Day6\Day6\bin\Debug\Day6.exe
+c:\users\faisal hossain\documents\visual studio 2013\Projects\Day6\Day6\bin\Debug\Day6.pdb
+c:\users\faisal hossain\documents\visual studio 2013\Projects\Day6\Day6\obj\Debug\Day6.exe
+c:\users\faisal hossain\documents\visual studio 2013\Projects\Day6\Day6\obj\Debug\Day6.pdb
+E:\Working\Auk Writting\Presentation\TechForum\Object Oriented Programming (OOP)\Coding\Day6\Day6\bin\Debug\Day6.exe.config
+E:\Working\Auk Writting\Presentation\TechForum\Object Oriented Programming (OOP)\Coding\Day6\Day6\obj\Debug\Day6.exe
+E:\Working\Auk Writting\Presentation\TechForum\Object Oriented Programming (OOP)\Coding\Day6\Day6\obj\Debug\Day6.pdb
+E:\Working\Developers Organism\Video Tutorials\TechForum\Object Oriented Programming with C#\Coding\Day6\Day6\bin\Debug\Day6.exe.config
+E:\Working\Developers Organism\Video Tutorials\TechForum\Object Oriented Programming with C#\Coding\Day6\Day6\obj\Debug\Day6.exe
+E:\Working\Developers Organism\Video Tutorials\TechForum\Object Oriented Programming with C#\Coding\Day6\Day6\obj\Debug\Day6.pdb
