@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using JumpStartOOP.ClassConcept.Generics;
+using JumpStartOOP.Inheritence;
 
 namespace JumpStartOOP
 {
@@ -39,12 +41,7 @@ namespace JumpStartOOP
             Console.WriteLine(Person.StaticFirstName);
         }
 
-        void NonStaticMember() {
-            StaticExamplePrint();
-        }
-        static void Main(string[] args) {
-            //DestructorExamples();
-
+        void StaticExamplePrintAll() {
             StaticExample();
 
             Console.WriteLine(Person.StaticFirstName);
@@ -53,6 +50,31 @@ namespace JumpStartOOP
             Person.StaticFirstName = "2nd time static change";
 
             StaticExamplePrint();
+
+        }
+
+        static void ChangePersonName(Person person) {
+            person.FirstName = "Changed first name";
+        }
+
+        static void ReferenceTypeObjectPassingExample() {
+            Person alice2 = new Person("Alice 2");
+            ChangePersonName(alice2);
+
+            alice2.Eat();
+        }
+        //10
+        
+        static void Main(string[] args) {
+            //DestructorExamples();
+
+
+            //var vector = new Vector();
+            //vector.Add("Hello");
+
+            Teacher alice = (Teacher)new Student();
+
+            
 
             Console.ReadLine();
         }

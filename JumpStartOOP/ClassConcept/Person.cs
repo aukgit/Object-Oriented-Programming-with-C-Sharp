@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace JumpStartOOP.ClassConcept
 {
-    class Person {
+    partial class Person {
 
         
 
         #region Constructors
 
-        //public Person() {
-        //    Console.WriteLine("Person is created.");
-        //}
+        public Person() {
+           Console.WriteLine("Person is created.");
+        }
 
         public Person(string FirstName) {
             this.FirstName = FirstName;
