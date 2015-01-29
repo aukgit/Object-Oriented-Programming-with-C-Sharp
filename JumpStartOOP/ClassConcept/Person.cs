@@ -30,6 +30,8 @@ namespace JumpStartOOP.ClassConcept
         public DateTime DateOfBirth;
         public bool Gender;
 
+        public static string StaticFirstName ;
+
         #endregion
 
         #region Behaviours or Functions or Methods
