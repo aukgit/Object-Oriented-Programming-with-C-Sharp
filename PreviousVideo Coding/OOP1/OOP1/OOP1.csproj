@@ -44,8 +44,10 @@
     <Compile Include="DestructorClass.cs" />
     <Compile Include="ExampleInheritExam.cs" />
     <Compile Include="INewInterface.cs" />
+    <Compile Include="Interfaces\DestructorClassIDispose.cs" />
     <Compile Include="ITest.cs" />
     <Compile Include="ModularExample4.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Vector.cs">

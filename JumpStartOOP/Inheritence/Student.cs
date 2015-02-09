@@ -1,16 +1,23 @@
-﻿using JumpStartOOP.ClassConcept;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using JumpStartOOP.Example;
 
 namespace JumpStartOOP.Inheritence
 {
     class Student : Person
     {
 
-      
+        public Student() {
+
+        }
+
+        public Student(bool callPerson): base("Example First Name") {
+            
+        }
        
         #region Extended Fields of Students
 

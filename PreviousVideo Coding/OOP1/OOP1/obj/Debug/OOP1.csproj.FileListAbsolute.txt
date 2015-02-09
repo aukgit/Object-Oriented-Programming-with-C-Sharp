@@ -9,3 +9,6 @@ E:\Working\Auk Writting\Presentation\TechForum\Object Oriented Programming (OOP)
 E:\Working\Developers Organism\Video Tutorials\TechForum\Object Oriented Programming with C#\Coding\OOP1\OOP1\bin\Debug\OOP1.exe.config
 E:\Working\Developers Organism\Video Tutorials\TechForum\Object Oriented Programming with C#\Coding\OOP1\OOP1\obj\Debug\OOP1.exe
 E:\Working\Developers Organism\Video Tutorials\TechForum\Object Oriented Programming with C#\Coding\OOP1\OOP1\obj\Debug\OOP1.pdb
+E:\Working\GitHub\Object-Oriented-Programming-with-C-Sharp\PreviousVideo Coding\OOP1\OOP1\bin\Debug\OOP1.exe.config
+E:\Working\GitHub\Object-Oriented-Programming-with-C-Sharp\PreviousVideo Coding\OOP1\OOP1\obj\Debug\OOP1.exe
+E:\Working\GitHub\Object-Oriented-Programming-with-C-Sharp\PreviousVideo Coding\OOP1\OOP1\obj\Debug\OOP1.pdb

@@ -4,16 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C78C8F98-D72B-4297-B00B-93C81CEB8F9A}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{DF33C31D-98C0-4334-A378-452FFAAD6148}</ProjectGuid>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>JumpStartOOP</RootNamespace>
-    <AssemblyName>JumpStartOOP</AssemblyName>
+    <RootNamespace>ExampleForAccessModifier</RootNamespace>
+    <AssemblyName>ExampleForAccessModifier</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,7 +22,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -41,30 +39,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClassConcept\Generics\Vector.cs" />
-    <Compile Include="ClassConcept\Generics\VectorGenerics.cs" />
-    <Compile Include="Example\Person.cs" />
-    <Compile Include="IErrorCollection.cs" />
-    <Compile Include="Inheritence\C.cs" />
-    <Compile Include="Inheritence\Student.cs" />
-    <Compile Include="Inheritence\Teacher.cs" />
-    <Compile Include="ISavable.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="Class2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="XExample.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Unused\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ExampleForAccessModifier\ExampleForAccessModifier.csproj">
-      <Project>{df33c31d-98c0-4334-a378-452ffaad6148}</Project>
-      <Name>ExampleForAccessModifier</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

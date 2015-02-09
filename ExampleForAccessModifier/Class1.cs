@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JumpStartOOP.Example {
-
-    partial class Person
+namespace ExampleForAccessModifier
+{
+    public class Class1
     {
 
-        public String PartialField;
+        public string InternalField;
     }
 }

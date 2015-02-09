@@ -6,7 +6,7 @@ using System.Text;
 //using OOP1.Polymorphism;
 //using OOP1.ExtensionMethod;
 //using OOP1.Inheritance;
-//using OOP1.Interfaces;
+using OOP1.Interfaces;
 /*
  * Written by Alim Ul Karim
  * mailto: alim@developers-organism.com
@@ -35,7 +35,7 @@ namespace OOP1 {
             //assume that this is in the static main method
            var c = new B("Hello 2");
            var ex = B.StaticExample;
-
+           
            X x = new Y();
            //Y y = new X();
            X zC = new Z();

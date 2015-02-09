@@ -9,6 +9,7 @@ namespace JumpStartOOP.ClassConcept.Generics
     class VectorGenerics<T>
     {
         private List<T> _list;
+        T x;
         
         public VectorGenerics()
         {

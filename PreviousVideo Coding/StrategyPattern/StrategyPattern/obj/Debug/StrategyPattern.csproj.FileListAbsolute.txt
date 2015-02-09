@@ -7,3 +7,9 @@ E:\Working\Auk Writting\Presentation\TechForum\Object Oriented Programming (OOP)
 E:\Working\Developers Organism\Video Tutorials\TechForum\Object Oriented Programming with C#\Coding\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
 E:\Working\Developers Organism\Video Tutorials\TechForum\Object Oriented Programming with C#\Coding\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
 E:\Working\Developers Organism\Video Tutorials\TechForum\Object Oriented Programming with C#\Coding\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
+E:\Working\GitHub\Object-Oriented-Programming-with-C-Sharp\PreviousVideo Coding\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+E:\Working\GitHub\Object-Oriented-Programming-with-C-Sharp\PreviousVideo Coding\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+E:\Working\GitHub\Object-Oriented-Programming-with-C-Sharp\PreviousVideo Coding\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
+E:\Working\GitHub\Object-Oriented-Programming-with-C-Sharp\PreviousVideo Coding\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+E:\Working\GitHub\Object-Oriented-Programming-with-C-Sharp\PreviousVideo Coding\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+E:\Working\GitHub\Object-Oriented-Programming-with-C-Sharp\PreviousVideo Coding\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
