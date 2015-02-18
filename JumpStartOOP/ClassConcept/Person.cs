@@ -4,16 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JumpStartOOP.ClassConcept
-{
-    partial class Person {
+namespace JumpStartOOP.ClassConcept {
+    class Person {
 
-        
+
 
         #region Constructors
 
         public Person() {
-           Console.WriteLine("Person is created.");
+            Console.WriteLine("Person is created.");
         }
 
         public Person(string FirstName) {
@@ -23,14 +22,14 @@ namespace JumpStartOOP.ClassConcept
 
         #endregion
 
-        #region data  or attributes
+        #region Data  or attributes
 
         public string FirstName;
         public string LastName;
         public DateTime DateOfBirth;
         public bool Gender;
 
-        public static string StaticFirstName ;
+        public static string StaticFirstName;
 
         #endregion
 

@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JumpStartOOP.Example {
-
-    partial class Person
+namespace JumpStartOOP.ClassConcept
+{
+    class BoxingUnboxing
     {
-
-        public String PartialField;
+ 
     }
 }
